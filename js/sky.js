@@ -19,7 +19,7 @@ init();
 animate();
 
 function init() {
-    container = document.getElementById(`canvas`);
+    container = document.getElementById('canvas');
 
     mouseX = 0;
     mouseY = 0;
